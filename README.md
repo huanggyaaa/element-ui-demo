@@ -4,6 +4,6 @@
     会把所有需要的 laoder 一并下载
     也不用额外配置 webpack 配置文件
 #### 安装 element UI
-    cnpm install element-ui S
+    cnpm install element-ui -S
 #### 启动
     npm run dev
